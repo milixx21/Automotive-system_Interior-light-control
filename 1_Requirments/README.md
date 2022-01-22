@@ -4,6 +4,8 @@
 
 The interior lighting in cars consisted of a few incandescent lights that turned on or off in response to microswitches in various doors or simple switches near the light fixture.
 
+![INTERIOR LIGHT](https://user-images.githubusercontent.com/94521102/150651117-1248af08-622c-4a6b-a22d-17cdb3287186.jpg)
+
 
 ## 4W's 1H
 
