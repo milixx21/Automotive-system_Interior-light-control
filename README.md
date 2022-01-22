@@ -6,4 +6,4 @@ Mini project on car Model TATA Nexon
 
 | PS Number| Name | Feature |
 | --- | --- | ---|
-|40021135| Milind |Interior Light Control|
+|40021135| Milind Bagul |Interior Light Control|
